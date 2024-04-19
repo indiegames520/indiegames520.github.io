@@ -1,0 +1,5 @@
+<BrCube_gp>{
+"msg":"Welcome to Indie Games 520",
+"url":"https://play.google.com/store/apps/developer?id=Indie+Games+520",
+"arg":0,
+}</BrCube_gp>
