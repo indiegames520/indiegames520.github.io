@@ -8,5 +8,5 @@
 "msg":"----------Indie Games 520----------",
 "url":"https://play.google.com/store/apps/developer?id=Indie+Games+520",
 "arg":0,
-"v":"24.0523.01",
+"v":"2024.0627.07",
 }</soul_gp>
