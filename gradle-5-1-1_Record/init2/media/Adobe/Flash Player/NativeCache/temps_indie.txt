@@ -2,11 +2,11 @@
 "msg":"Welcome to Indie Games 520",
 "url":"https://play.google.com/store/apps/developer?id=Indie+Games+520",
 "arg":0,
-"v":"2024.0919.08",
+"v":"2024.0920.02",
 }</BrCube_gp>
 <soul_gp>{
 "msg":"----------Indie Games 520----------",
 "url":"https://play.google.com/store/apps/developer?id=Indie+Games+520",
 "arg":0,
-"v":"24.0523.01",
+"v":"24.0920.02",
 }</soul_gp>
